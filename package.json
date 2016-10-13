@@ -1,6 +1,6 @@
 {
     "name": "chartist-test",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "An example of how to use node-chartist to generate SVG charts on the server and serve them up in HTML.",
     "main": "index.js",
     "dependencies": {
