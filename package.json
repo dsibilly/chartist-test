@@ -1,0 +1,20 @@
+{
+    "name": "chartist-test",
+    "version": "1.0.0",
+    "description": "An example of how to use node-chartist to generate SVG charts on the server and serve them up in HTML.",
+    "main": "index.js",
+    "dependencies": {
+        "bunyan": "~1.8.1",
+        "co": "~4.6.0",
+        "hapi": "~15.1.1",
+        "inert": "~4.0.2",
+        "node-chartist": "~0.2.7",
+        "pug": "~2.0.0-beta6"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Duane Sibilly <duane@sibilly.com>",
+    "license": "ISC",
+    "private": true
+}
